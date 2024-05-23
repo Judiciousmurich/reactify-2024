@@ -1,6 +1,6 @@
 export default function UserProfile () {
     return(
-        <div>
+        <div id="user-profile">
             <p>Judicious Murich</p>
             <div>
                 <span>Email:</span>
