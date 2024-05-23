@@ -1,4 +1,4 @@
-function UserProfile{
+export default function UserProfile () {
     return(
         <div>
             <p>Judicious Murich</p>
