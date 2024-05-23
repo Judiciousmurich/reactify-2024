@@ -8,7 +8,16 @@ export default function UserProfile () {
                 <span>Email:</span>
                 <span>murichjudicious@gmail.com</span>
             </div>
-            <UserFavouriteFoods/>
+            <section>
+                <span>Favourite Foods</span>
+                <br/>
+                <ul>
+                    <li>pizza</li>
+                    <li>chips</li>
+                    <li>chicken</li>
+                </ul>
+            </section>
+    
         </div>
         
     )
