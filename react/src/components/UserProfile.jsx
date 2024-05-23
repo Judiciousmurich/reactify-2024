@@ -12,6 +12,7 @@ function UserProfile{
                 <ul>
                     <li>pizza</li>
                     <li>chips</li>
+                    <li>chicken</li>
                 </ul>
             </section>
         </div>
