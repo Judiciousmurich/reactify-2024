@@ -1,3 +1,5 @@
+import UserFavouriteFoods from "./UserFavouriteFoods";
+
 export default function UserProfile () {
     return(
         <div id="user-profile">
@@ -6,15 +8,7 @@ export default function UserProfile () {
                 <span>Email:</span>
                 <span>murichjudicious@gmail.com</span>
             </div>
-            <section>
-                <span>Favourite Foods</span>
-                <br/>
-                <ul>
-                    <li>pizza</li>
-                    <li>chips</li>
-                    <li>chicken</li>
-                </ul>
-            </section>
+            <UserFavouriteFoods/>
         </div>
         
     )
