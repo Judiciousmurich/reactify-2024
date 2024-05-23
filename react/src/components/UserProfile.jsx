@@ -17,7 +17,7 @@ export default function UserProfile () {
                     <li>chicken</li>
                 </ul>
             </section>
-    
+    <UserFavouriteFoods/>
         </div>
         
     )
