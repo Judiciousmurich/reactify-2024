@@ -1,4 +1,4 @@
-export function UserUsername () {
+export default function UserUsername ( props) {
     return (
         <div></div>
     )
