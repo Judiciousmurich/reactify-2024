@@ -1,7 +1,7 @@
 import { createElement } from "react";
 
 export default function UserFavouriteFoods () {
-    return createElement("div", null, <div>
+    return createElement("div", null, 
         <section>
                 <span>Favourite Foods</span>
                 <br/>
@@ -11,6 +11,6 @@ export default function UserFavouriteFoods () {
                     <li>chicken</li>
                 </ul>
             </section>
-    </div>)
+    )
 
 }
