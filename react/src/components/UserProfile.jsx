@@ -4,7 +4,7 @@ import UserUsername from "./UserUsername";
 export default function UserProfile () {
     return(
         <div id="user-profile">
-            <UserUsername/>
+            <UserUsername username = "judy"/>
             <div>
                 <span>Email:</span>
                 <span>murichjudicious@gmail.com</span>
