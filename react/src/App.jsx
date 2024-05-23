@@ -1,6 +1,6 @@
-import {UserProfile} from "./components/UserProfile";
+import UserProfile from "./components/UserProfile";
 
-export function App(){
+export default function App(){
     return(
         <div>
             <h1>Root Component</h1>
