@@ -21,4 +21,4 @@ export default function UserProfile (props) {
         
     )
 }
-UserProfile.PropTypes
+UserProfile.propTypes = {}
