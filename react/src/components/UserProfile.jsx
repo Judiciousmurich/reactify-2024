@@ -1,7 +1,7 @@
 import UserFavouriteFoods from "./UserFavouriteFoods";
 import UserUsername from "./UserUsername";
 
-export default function UserProfile () {
+export default function UserProfile (props) {
     return(
         <div id="user-profile">
             <UserUsername username = "judy" />
@@ -9,7 +9,7 @@ export default function UserProfile () {
             <span>{props.age}</span>
               <UserFavouriteFoods/> 
             <div>
-                <span>Email:</span>
+                <span>Age:</span>
                 <span>murichjudicious@gmail.com</span>
             </div>
             
