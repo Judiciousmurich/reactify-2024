@@ -10,7 +10,7 @@ export default function UserProfile (props) {
               <UserFavouriteFoods/> 
             <div>
                 <span>Age:</span>
-                <span>murichjudicious@gmail.com</span>
+                <span>{props.age}</span>
             </div>
             
     <UserFavouriteFoods/>
