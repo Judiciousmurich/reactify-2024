@@ -14,6 +14,7 @@ export default function UserProfile (props) {
             </div>
             
     <UserFavouriteFoods/>
+{String(props.isLoggedIn)}
         </div>
         
     )
