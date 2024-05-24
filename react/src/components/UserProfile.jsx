@@ -1,4 +1,4 @@
-import 
+import PropTypes from "prop-types"
 import UserFavouriteFoods from "./UserFavouriteFoods";
 import UserUsername from "./UserUsername";
 
@@ -21,3 +21,4 @@ export default function UserProfile (props) {
         
     )
 }
+UserProfile.PropTypes
