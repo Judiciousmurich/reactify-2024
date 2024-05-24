@@ -2,11 +2,11 @@ import UserFavouriteFoods from "./UserFavouriteFoods";
 import UserUsername from "./UserUsername";
 
 export default function UserProfile (props) {
+    console.log(props)
     return(
         <div id="user-profile">
             <UserUsername username = "judy" />
-            <b>Age: </b>
-            <span>{props.age}</span>
+            
               <UserFavouriteFoods/> 
             <div>
                 <span>Age:</span>
