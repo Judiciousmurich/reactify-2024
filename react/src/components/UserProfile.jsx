@@ -1,4 +1,4 @@
-import PropTypes from "prop-types"
+import propTypes from "prop-types"
 import UserFavouriteFoods from "./UserFavouriteFoods";
 import UserUsername from "./UserUsername";
 
@@ -21,4 +21,6 @@ export default function UserProfile (props) {
         
     )
 }
-UserProfile.propTypes = {}
+UserProfile.propTypes = {
+    username: <propTypes className="string isRequired"></propTypes>
+}
