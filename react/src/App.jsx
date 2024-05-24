@@ -4,7 +4,10 @@ export default function App(){
     return(
         <div>
             <h1>Root Component</h1>
-        <UserProfile age= {21} isLoggedIn={true}/>
+        <UserProfile age= {21} isLoggedIn={true} favouriteFoods={[{
+            name: "pizza",
+        },
+        ]}/>
         </div>
     )
 
