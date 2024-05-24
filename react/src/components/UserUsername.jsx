@@ -3,7 +3,7 @@ export default function UserUsername (props) {
     return (
         <div>
             <b>username:</b>
-            <span></span>
+            <span>cd</span>
         </div>
     )
 
