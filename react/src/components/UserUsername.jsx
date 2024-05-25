@@ -4,6 +4,7 @@ export default function UserUsername (props) {
         <div>
             <b>username:</b>
             <span>{props.username}</span>
+            <b></b>
         </div>
     )
 
