@@ -4,7 +4,7 @@ import UserUsername from "./UserUsername";
 
 export default function UserProfile (props) {
     console.log(props)
-    // props.callMe ();
+/
     return(
         <div id="user-profile">
             <UserUsername username = "judy" />
