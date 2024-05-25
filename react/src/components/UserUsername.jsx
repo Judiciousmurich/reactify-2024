@@ -1,5 +1,5 @@
 export default function UserUsername (props) {
-    console.log(props.username)
+    console.log(props.password)
     return (
         <div>
             <b>username:</b>
