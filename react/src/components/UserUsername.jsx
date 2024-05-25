@@ -5,7 +5,7 @@ export default function UserUsername (props) {
             <b>username:</b>
             <span>{props.username}</span>
             <b>Password:</b>
-            <span>{}</span>
+            <span>{props.}</span>
         </div>
     )
 
