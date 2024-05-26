@@ -6,7 +6,7 @@ export default function UserFavouriteFoods () {
     <span>Favourite Foods</span>
     <br/>
     <ul>
-        <li>pizza</li>
+        <li>chicken</li>
         <li>chips</li>
         <li>chicken</li>
     </ul>
