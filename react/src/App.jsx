@@ -8,7 +8,7 @@ export default function App(){
         <div>
             <h1>Root Components</h1>
         <UserProfile age= {22} isLoggedIn={false} favouriteFoods={[{
-            name: "pizza",
+            name: "shisha",
         },
         ]}
         CallMe={callMe}/>
