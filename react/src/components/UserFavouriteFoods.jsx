@@ -7,7 +7,7 @@ export default function UserFavouriteFoods () {
     <br/>
     <ul>
         <li>chicken</li>
-        <li>chips</li>
+        <li>pizza</li>
         <li>chicken</li>
     </ul>
 </section>
