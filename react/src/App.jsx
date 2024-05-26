@@ -7,7 +7,7 @@ export default function App(){
     return(
         <div>
             <h1>Root Components</h1>
-        <UserProfile age= {22} isLoggedIn={false} favouriteFoods={[{
+        <UserProfile age= {22} isLoggedIn={true} favouriteFoods={[{
             name: "shisha",
         },
         ]}
