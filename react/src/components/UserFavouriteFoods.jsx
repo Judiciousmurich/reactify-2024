@@ -12,6 +12,7 @@ export default function UserFavouriteFoods () {
         <li>curry</li>
         <li>eggs</li>
         <li>bread</li>
+        <li>milk</li>
 
 
     </ul>
