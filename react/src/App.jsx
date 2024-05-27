@@ -2,7 +2,7 @@ import UserProfile from "./components/UserProfile";
 
 export default function App(){
     const callMe = () => {
-        console,log("hey")
+        console,log("hello")
     };
     return(
         <div>
