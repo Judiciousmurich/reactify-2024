@@ -13,7 +13,7 @@ export default function UserFavouriteFoods () {
         <li>vegetables</li>
         <li>beef fry</li>
         <li>rice</li>
-        <li>chips</li>
+        <li>chapati</li>
 
 
 
