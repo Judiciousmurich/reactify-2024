@@ -10,7 +10,7 @@ export default function UserFavouriteFoods () {
         <li>pizza</li>
         <li>chips</li>
         <li>cabbage</li>
-        <li>chips</li>
+        <li>vegetables</li>
         <li>chips</li>
 
 
