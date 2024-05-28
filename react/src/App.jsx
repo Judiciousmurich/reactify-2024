@@ -12,9 +12,9 @@ export default function App(){
             id: "pizza"
         },
         {
-            name: "sushi"
+            name: "sushi",
             id:"sushi"
-        }
+        },
         ]}
         CallMe={callMe}/>
       

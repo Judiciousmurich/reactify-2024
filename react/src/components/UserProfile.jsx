@@ -24,6 +24,12 @@ export default function UserProfile (props) {
 UserProfile.PropTypes = {
     username:PropTypes.string.isRequired,
     age:PropTypes.number.isRequired,
-    callMe: PropTypes.number.isRequired
-    // isLoggedIn: PropTypes.bool,
+    callMe: PropTypes.number.isRequired,
+    isLoggedIn: PropTypes.bool,
+    favoriteFoods: PropTypes.arrayOf(
+        PropTypes.shape({
+            name: PropTypes.string.isRequired,
+         id: PropTypes.number.isRequired,
+        })
+    )
 }
