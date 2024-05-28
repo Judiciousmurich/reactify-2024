@@ -25,4 +25,5 @@ UserProfile.PropTypes = {
     username:PropTypes.string.isRequired,
     age:PropTypes.number.isRequired,
     callMe: PropTypes.number.isRequired
+    // isLoggedIn: PropTypes.bool,
 }
