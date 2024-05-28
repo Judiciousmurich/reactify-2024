@@ -7,7 +7,7 @@ export default function UserProfile (props) {
 
     return(
         <div id="user-profile">
-            <UserUsername username = />
+            <UserUsername username = {}/>
             
               <UserFavouriteFoods/> 
             <div>
