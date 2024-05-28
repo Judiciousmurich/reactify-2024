@@ -22,5 +22,5 @@ export default function UserProfile (props) {
     )
 }
 UserProfile.propTypes = {
-    username: <propTypes className="string isRequired"></propTypes>
+    username:propTypes.string.isRequired
 }
