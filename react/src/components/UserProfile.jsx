@@ -26,7 +26,7 @@ UserProfile.PropTypes = {
     age:PropTypes.number.isRequired,
     callMe: PropTypes.number.isRequired,
     isLoggedIn: PropTypes.bool,
-    favoriteFoods: PropTypes.arrayOf(
+    favouriteFoods: PropTypes.arrayOf(
         PropTypes.shape({
             name: PropTypes.string.isRequired,
          id: PropTypes.number.isRequired,
