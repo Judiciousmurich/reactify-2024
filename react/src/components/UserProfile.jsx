@@ -6,7 +6,8 @@ export default function UserProfile (props) {
     console.log(props)
 
     return(
-        <div id="user-profile">
+       <>>
+       
             <UserUsername username = {props.username}/>
             
               <UserFavouriteFoods/> 
@@ -17,7 +18,7 @@ export default function UserProfile (props) {
             
     <UserFavouriteFoods/>
 {String(props.isLoggedIn)}
-        </div>
+      </>
         
     )
 }
