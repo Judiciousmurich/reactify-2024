@@ -12,10 +12,10 @@ export default function UserProfile (props) {
             <UserUsername username = {props.username}/>
             
               <UserFavouriteFoods/> 
-            <div>
+         
                 <span>Age:</span>
                 <span>{props.age}</span>
-            </div>
+            
             
     <UserFavouriteFoods/>
 {String(props.isLoggedIn)}
