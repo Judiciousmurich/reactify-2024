@@ -1,4 +1,5 @@
 import UserProfile from "./components/UserProfile";
+import propTypes from "prop-types"
 
 export default function App(){
     const callMe = () => {
@@ -7,7 +8,7 @@ export default function App(){
     return(
         <div>
             <h1>Root Components</h1>
-        <UserProfile username="richgal" age= {21} isLoggedIn={false}C={[{
+        <UserProfile username="richgal" age= {21} isLoggedIn={false} favouriteFoods={[{
             name: "pizza",
             id: "pizza"
         },
