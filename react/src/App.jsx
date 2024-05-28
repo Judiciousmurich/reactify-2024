@@ -1,6 +1,4 @@
 import UserProfile from "./components/UserProfile";
-import propTypes from "prop-types"
-
 export default function App(){
     const callMe = () => {
         console,log("hello")
