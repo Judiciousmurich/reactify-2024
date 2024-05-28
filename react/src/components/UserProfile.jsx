@@ -6,8 +6,9 @@ export default function UserProfile (props) {
     console.log(props)
 
     return(
-       <>>
-       
+       <>
+
+
             <UserUsername username = {props.username}/>
             
               <UserFavouriteFoods/> 
