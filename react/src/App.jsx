@@ -16,7 +16,7 @@ export default function App(){
             id:"sushi"
         },
         {
-            name:"curry"
+            name:"curry",
         }
         ]}
         CallMe={callMe}/>
