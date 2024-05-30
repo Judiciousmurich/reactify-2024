@@ -17,7 +17,7 @@ export default function App(){
         },
         {
             name:"curry",
-            id:
+            id:"curry"
         }
         ]}
         CallMe={callMe}/>
