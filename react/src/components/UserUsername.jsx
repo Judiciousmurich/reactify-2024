@@ -6,7 +6,7 @@ export default function UserUsername (props) {
             <b className="username ">username:</b>
             <span>{props.username}</span>
             <b>Password:</b>
-            <span>{props.password}</span>
+            <span >{props.password}</span>
         </div>
     )
 
