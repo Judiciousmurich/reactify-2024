@@ -16,7 +16,7 @@ export default function App(){
             id:"sushi"
         },
         {
-            
+            ame:
         }
         ]}
         CallMe={callMe}/>
