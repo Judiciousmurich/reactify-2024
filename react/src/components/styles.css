@@ -5,4 +5,5 @@
     text-decoration:none ;
     text-transform:capitalize ;
     font: inherit;
+    font: optional;
 }
