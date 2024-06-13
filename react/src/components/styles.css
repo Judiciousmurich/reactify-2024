@@ -6,4 +6,5 @@
     text-transform:capitalize ;
     font: inherit;
     font: optional;
+    font-family: 'Courier New', Courier, monospace;
 }
