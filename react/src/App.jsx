@@ -9,7 +9,7 @@ export default function App(){
             <h1>Root Components</h1>
         <UserProfile username="richgirl" age= {21} isLoggedIn={true} favouriteFoods={[{
             name: "pizza",
-            id: "pizza"
+            id: "pizz"
         },
         {
             name: "sushi",
