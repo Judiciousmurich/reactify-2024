@@ -1,4 +1,5 @@
 .username{
 font: inherit;
 hyphens: auto;
+overflow-y: auto;
 }
